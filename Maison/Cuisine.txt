@@ -1,4 +1,4 @@
-Carrelage bleu
+Carrelage gris
 Meubles blancs
 Murs rouges
 Evier
@@ -7,5 +7,5 @@ Table + 6 chaises
 Thermomix
 Kitchen Aid
 Horloge
-Compte-minute
+Compte-minute électronique
 
