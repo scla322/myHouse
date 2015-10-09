@@ -2,3 +2,4 @@ Niveau:1
 Lit
 Table de chevet
 Placard
+Réveil

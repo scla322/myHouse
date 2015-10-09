@@ -1,3 +1,6 @@
 Niveau:0
 Canapé
 Télévision
+Fauteuil
+Table basse
+Home cinéma
