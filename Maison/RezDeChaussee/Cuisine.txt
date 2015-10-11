@@ -1,7 +1,7 @@
 Niveau:0
 Carrelage gris
 Meubles blancs
-Murs rouges
+Faïence rouge
 Evier
 Four 90 cm
 Table + 6 chaises
@@ -9,4 +9,3 @@ Thermomix TM31
 Kitchen Aid
 Horloge
 Compte-minute électronique
-
